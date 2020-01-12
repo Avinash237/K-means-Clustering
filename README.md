@@ -1,0 +1,2 @@
+# K-means-Clustering
+This algorithm categorizes data points into a predefined number of groups K, where each data point belongs to the group or cluster with the nearest mean. Data points are clustered based on similarities in their features. The algorithm works iteratively to assign each data point to one of the K groups in such a way that the distance(i.e. Euclidian or Manhattan) between the centroid(i.e. the centre of the cluster) of that group and the data point be small. The algorithm produces exactly K different clusters of the greatest possible distinction.
